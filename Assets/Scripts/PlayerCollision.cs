@@ -10,6 +10,6 @@ public class PlayerCollision : MonoBehaviour {
 
     		movement.enabled = false;
     		Debug.Log("GAME OVER!");
-    	}
+    	} 
     }
 }

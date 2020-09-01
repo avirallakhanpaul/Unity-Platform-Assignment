@@ -7,6 +7,12 @@ public class Movement : MonoBehaviour {
 	public float ForwardForce = 2000f;
 	public float SidewaysForce = 40f;
 	public float JumpForce = 50f;
+	private bool onGround = true;
+
+	// void Start() {
+
+	// 	onGround = true;
+	// }
 
     void FixedUpdate() {
 
@@ -23,9 +29,19 @@ public class Movement : MonoBehaviour {
         	rd.AddForce(SidewaysForce * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
         }
 
-        if(Input.GetKey("space")) { 
+        if(Input.GetKey("space") && onGround == true) { 
 
-        	rd.AddForce(0, JumpForce * Time.deltaTime, 0, ForceMode.VelocityChange);
+        	rd.AddForce(0, JumpForce * Time.deltaTime, 0, ForceMode.Impulse);
+        	onGround = false;
+        	Debug.Log("Inside if");
         }
     }
+
+    void OnCollisionEnter(Collision col) {
+
+    	if(col.collider.tag == "Platform") {
+
+    		onGround = true;
+    	}
+	}
 }
