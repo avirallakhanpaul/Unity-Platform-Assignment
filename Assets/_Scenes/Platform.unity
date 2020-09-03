@@ -127,12 +127,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2114433311}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &13857088 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-    type: 3}
-  m_PrefabInstance: {fileID: 1606693550}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &17917912
 GameObject:
   m_ObjectHideFlags: 0
@@ -272,7 +266,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 266.20038
+      value: 285.18036
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
@@ -389,7 +383,7 @@ PrefabInstance:
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 230.16
+      value: 249.13998
       objectReference: {fileID: 0}
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
@@ -474,7 +468,7 @@ PrefabInstance:
     - target: {fileID: 989266858284578180, guid: 5384ab413bdc54740a1799457820a075,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 269.92
+      value: 288.9
       objectReference: {fileID: 0}
     - target: {fileID: 989266858284578180, guid: 5384ab413bdc54740a1799457820a075,
         type: 3}
@@ -535,6 +529,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: HayBales X3 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3930691196407530355, guid: 04747f923ce337146a918766ae6332d2,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
@@ -743,7 +742,7 @@ PrefabInstance:
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 319.7
+      value: 338.68
       objectReference: {fileID: 0}
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
@@ -833,7 +832,7 @@ PrefabInstance:
     - target: {fileID: 3664160701435844296, guid: 47a51fd254c718247b62c08d21274ef5,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 203.52036
+      value: 209.5
       objectReference: {fileID: 0}
     - target: {fileID: 3664160701435844296, guid: 47a51fd254c718247b62c08d21274ef5,
         type: 3}
@@ -917,7 +916,7 @@ PrefabInstance:
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 357.17377
+      value: 376.15375
       objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
@@ -1100,6 +1099,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: HayBales X3 (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 3930691196407530355, guid: 04747f923ce337146a918766ae6332d2,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1192,7 +1196,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 269.20038
+      value: 288.18036
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
@@ -1303,7 +1307,7 @@ PrefabInstance:
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 319.7
+      value: 338.68
       objectReference: {fileID: 0}
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
@@ -1428,7 +1432,7 @@ PrefabInstance:
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 226.62036
+      value: 245.60034
       objectReference: {fileID: 0}
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
@@ -1530,7 +1534,7 @@ PrefabInstance:
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 300.41003
+      value: 319.39
       objectReference: {fileID: 0}
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
@@ -1625,6 +1629,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: HayBales X3 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 3930691196407530355, guid: 04747f923ce337146a918766ae6332d2,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1709,6 +1718,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: HayBales X3 (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 3930691196407530355, guid: 04747f923ce337146a918766ae6332d2,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1747,7 +1761,7 @@ PrefabInstance:
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
       propertyPath: m_RootOrder
-      value: 47
+      value: 46
       objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
@@ -1801,7 +1815,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 263.70038
+      value: 282.68036
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
@@ -1918,7 +1932,7 @@ PrefabInstance:
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 226.62036
+      value: 245.60034
       objectReference: {fileID: 0}
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
@@ -2088,7 +2102,7 @@ PrefabInstance:
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 228.34
+      value: 247.31998
       objectReference: {fileID: 0}
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
@@ -2168,7 +2182,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 276.70038
+      value: 295.68036
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
@@ -2269,7 +2283,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 332.71967
+      value: 351.69965
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
@@ -2386,7 +2400,7 @@ PrefabInstance:
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 319.7
+      value: 338.68
       objectReference: {fileID: 0}
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
@@ -2526,7 +2540,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 272.70038
+      value: 291.68036
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
@@ -2627,7 +2641,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 269.20038
+      value: 288.18036
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
@@ -2808,7 +2822,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: c33ac1d6cc2ae2f4baa1d93efe25fbd0,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 355.66376
+      value: 374.64374
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c33ac1d6cc2ae2f4baa1d93efe25fbd0,
         type: 3}
@@ -3188,6 +3202,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: HayBales X3 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 3930691196407530355, guid: 04747f923ce337146a918766ae6332d2,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3226,7 +3245,7 @@ PrefabInstance:
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
       propertyPath: m_RootOrder
-      value: 43
+      value: 42
       objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
@@ -3308,7 +3327,7 @@ PrefabInstance:
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 228.34
+      value: 247.31998
       objectReference: {fileID: 0}
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
@@ -3398,7 +3417,7 @@ PrefabInstance:
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 359.71967
+      value: 378.69965
       objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
@@ -3498,7 +3517,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 493a22ae103d01d49b663b08e26d2846,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 275.42
+      value: 294.4
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 493a22ae103d01d49b663b08e26d2846,
         type: 3}
@@ -3693,7 +3712,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 276.70038
+      value: 295.68036
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
@@ -3773,6 +3792,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: HayBales X3 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3930691196407530355, guid: 04747f923ce337146a918766ae6332d2,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
@@ -3858,6 +3882,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: HayBales X3 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 3930691196407530355, guid: 04747f923ce337146a918766ae6332d2,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3941,6 +3970,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: HayBales X3 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3930691196407530355, guid: 04747f923ce337146a918766ae6332d2,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
@@ -4284,7 +4318,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 356.67377
+      value: 375.65375
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
@@ -4401,7 +4435,7 @@ PrefabInstance:
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 300.41003
+      value: 319.39
       objectReference: {fileID: 0}
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
@@ -4501,7 +4535,7 @@ PrefabInstance:
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 360.21967
+      value: 379.19965
       objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
@@ -4577,6 +4611,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: HayBales X3 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3930691196407530355, guid: 04747f923ce337146a918766ae6332d2,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
@@ -4662,6 +4701,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: HayBales X3 (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 3930691196407530355, guid: 04747f923ce337146a918766ae6332d2,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4700,7 +4744,7 @@ PrefabInstance:
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
       propertyPath: m_RootOrder
-      value: 45
+      value: 44
       objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
@@ -4770,6 +4814,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: HayBales X3 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 3930691196407530355, guid: 04747f923ce337146a918766ae6332d2,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4808,7 +4857,7 @@ PrefabInstance:
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
       propertyPath: m_RootOrder
-      value: 42
+      value: 41
       objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
@@ -4884,7 +4933,7 @@ PrefabInstance:
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 230.16
+      value: 249.13998
       objectReference: {fileID: 0}
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
@@ -5104,7 +5153,7 @@ PrefabInstance:
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 228.34
+      value: 247.31998
       objectReference: {fileID: 0}
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
@@ -5176,6 +5225,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: HayBales X3 (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 3930691196407530355, guid: 04747f923ce337146a918766ae6332d2,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5214,7 +5268,7 @@ PrefabInstance:
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
       propertyPath: m_RootOrder
-      value: 44
+      value: 43
       objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
@@ -5290,7 +5344,7 @@ PrefabInstance:
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 300.41003
+      value: 319.39
       objectReference: {fileID: 0}
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
@@ -5470,7 +5524,7 @@ PrefabInstance:
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 300.41003
+      value: 319.39
       objectReference: {fileID: 0}
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
@@ -5545,6 +5599,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: HayBales X3 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3930691196407530355, guid: 04747f923ce337146a918766ae6332d2,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
@@ -5684,7 +5743,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 356.67377
+      value: 375.65375
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
@@ -5832,7 +5891,7 @@ PrefabInstance:
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 228.34
+      value: 247.31998
       objectReference: {fileID: 0}
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
@@ -5922,6 +5981,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: HayBales X3 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 3930691196407530355, guid: 04747f923ce337146a918766ae6332d2,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5961,90 +6025,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RootOrder
       value: 33
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -15.000001
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 2
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 04747f923ce337146a918766ae6332d2, type: 3}
---- !u!1001 &1606693550
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 2063520046}
-    m_Modifications:
-    - target: {fileID: 3930691196407530355, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_Name
-      value: HayBales X3 (14)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.34325677
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.2690869
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 140.08035
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.13052595
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.99144495
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 41
       objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
@@ -6126,7 +6106,7 @@ PrefabInstance:
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 300.41003
+      value: 319.39
       objectReference: {fileID: 0}
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
@@ -6235,7 +6215,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 272.70038
+      value: 291.68036
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
@@ -6384,6 +6364,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: HayBales X3 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3930691196407530355, guid: 04747f923ce337146a918766ae6332d2,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6468,10 +6453,15 @@ PrefabInstance:
       propertyPath: m_Name
       value: HayBales X3 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 3930691196407530355, guid: 04747f923ce337146a918766ae6332d2,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.8567432
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
@@ -6481,7 +6471,7 @@ PrefabInstance:
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 161.73036
+      value: 161.5
       objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
@@ -6540,90 +6530,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 04747f923ce337146a918766ae6332d2, type: 3}
---- !u!1001 &1745805136
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 2063520046}
-    m_Modifications:
-    - target: {fileID: 3930691196407530355, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_Name
-      value: HayBales X3 (8)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.47012806
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.2690869
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 146.0074
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.13052595
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.99144495
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 34
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -15.000001
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 2
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 04747f923ce337146a918766ae6332d2, type: 3}
 --- !u!4 &1750705772 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
@@ -6647,6 +6553,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: HayBales X3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3930691196407530355, guid: 04747f923ce337146a918766ae6332d2,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
@@ -6818,7 +6729,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 263.70038
+      value: 282.68036
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
@@ -6929,7 +6840,7 @@ PrefabInstance:
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 319.7
+      value: 338.68
       objectReference: {fileID: 0}
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
@@ -6993,12 +6904,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 523479838ccf36840a52a98e35b6f8a8, type: 3}
---- !u!4 &1948238275 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
-    type: 3}
-  m_PrefabInstance: {fileID: 1745805136}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1959551067
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7029,7 +6934,7 @@ PrefabInstance:
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 360.25964
+      value: 379.23962
       objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
@@ -7148,7 +7053,7 @@ PrefabInstance:
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 300.41003
+      value: 319.39
       objectReference: {fileID: 0}
     - target: {fileID: 4204567463932212926, guid: 523479838ccf36840a52a98e35b6f8a8,
         type: 3}
@@ -7257,7 +7162,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 266.20038
+      value: 285.18036
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c8bff2b4cc93bf54bb433d3680cd8db7,
         type: 3}
@@ -7337,6 +7242,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: HayBales X3 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3930691196407530355, guid: 04747f923ce337146a918766ae6332d2,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
@@ -7498,7 +7408,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2023367920}
   m_LocalRotation: {x: -0.13052624, y: 0, z: 0, w: 0.9914449}
-  m_LocalPosition: {x: 0, y: 1.53, z: 241.22003}
+  m_LocalPosition: {x: 0, y: 1.53, z: 260.2}
   m_LocalScale: {x: 0.8, y: 1, z: 0.8}
   m_Children: []
   m_Father: {fileID: 0}
@@ -7565,14 +7475,12 @@ Transform:
   - {fileID: 1807672209}
   - {fileID: 627453325}
   - {fileID: 1493237938}
-  - {fileID: 1948238275}
   - {fileID: 1715923890}
   - {fileID: 1768230594}
   - {fileID: 1299332336}
   - {fileID: 1610051247}
   - {fileID: 581356507}
   - {fileID: 1254955612}
-  - {fileID: 13857088}
   - {fileID: 1150703150}
   - {fileID: 30964555}
   - {fileID: 1986085720}
@@ -7689,6 +7597,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: HayBales X3 (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 3930691196407530355, guid: 04747f923ce337146a918766ae6332d2,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7727,7 +7640,7 @@ PrefabInstance:
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
       propertyPath: m_RootOrder
-      value: 46
+      value: 45
       objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
@@ -7772,6 +7685,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: HayBales X3 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3930691196407530355, guid: 04747f923ce337146a918766ae6332d2,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4451613059098614217, guid: 04747f923ce337146a918766ae6332d2,
         type: 3}
@@ -7870,7 +7788,7 @@ PrefabInstance:
     - target: {fileID: 989266858284578180, guid: 5384ab413bdc54740a1799457820a075,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 263.92
+      value: 282.9
       objectReference: {fileID: 0}
     - target: {fileID: 989266858284578180, guid: 5384ab413bdc54740a1799457820a075,
         type: 3}
@@ -8113,17 +8031,17 @@ PrefabInstance:
     - target: {fileID: 7154500821769722384, guid: 89929749dd58f6c41ba6972ecbf0d45d,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.26432
+      value: -0.28325677
       objectReference: {fileID: 0}
     - target: {fileID: 7154500821769722384, guid: 89929749dd58f6c41ba6972ecbf0d45d,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.53749
+      value: 0.26
       objectReference: {fileID: 0}
     - target: {fileID: 7154500821769722384, guid: 89929749dd58f6c41ba6972ecbf0d45d,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 41.38036
+      value: 41.18036
       objectReference: {fileID: 0}
     - target: {fileID: 7154500821769722384, guid: 89929749dd58f6c41ba6972ecbf0d45d,
         type: 3}
@@ -8173,7 +8091,7 @@ PrefabInstance:
     - target: {fileID: 7154500821769722384, guid: 89929749dd58f6c41ba6972ecbf0d45d,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 27.407284
+      value: 24.004122
       objectReference: {fileID: 0}
     - target: {fileID: 7494610161133371562, guid: 89929749dd58f6c41ba6972ecbf0d45d,
         type: 3}
